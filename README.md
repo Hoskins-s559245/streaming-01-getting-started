@@ -1,3 +1,21 @@
+# Name: Ash Hoskins - Student #S559245
+# Course CS-44-671
+# Module 1 Assignment 1
+
+# Goal: Batch Processing and Stream Processing.
+
+## Module 1 Coding
+
+1. Complete process_batch_C.py.
+2. It needs to read from degrees K and convert to degrees F.
+3. Use process_batch_B.py  as an example - it does something very similar. 
+4. The input file changes and the output file changes. 
+5. The temperature conversion calculation will be different (feel free to search for it). 
+6. Watch out for spacing! 
+7. Use VS Code and the discussion forum to get help. 
+
+
+
 # streaming-01-getting-started
 
 > Get started with Python for streaming analytics
